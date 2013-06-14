@@ -1,0 +1,5 @@
+nflynntest (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <root@repo01.admin.zen.net.uk>  Fri, 14 Jun 2013 20:39:36 +0000
